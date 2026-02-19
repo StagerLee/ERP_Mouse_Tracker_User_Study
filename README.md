@@ -4,6 +4,8 @@
 
 This is a lightweight browser add-on for Chrome that records where people move their mouse and where they click during a usability session. When you're done, it generates a visual heatmap showing which parts of an interface captured the most attention.
 
+![Heatmap example](notebooklm_mouse_heatmap_overlay.png)
+
 ---
 
 ## What Does It Do?
